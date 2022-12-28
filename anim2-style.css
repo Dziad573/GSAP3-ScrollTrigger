@@ -1,0 +1,31 @@
+body{
+    background-color: darkslateblue;
+    margin: 0px;
+}
+img{
+    margin-top: 30px;
+}
+.anim2{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: blueviolet;
+
+}
+.a{
+    background-color: blue;
+    width: auto;
+    height: 1000px;
+    text-align: center;
+    padding: 50px;
+}
+.a2{
+    background-color: rgb(33, 33, 238);
+}
+.a3{
+    background-color: rgb(61, 61, 241);
+}
+.a > img{
+    border-radius: 8%;
+    max-width: 900px;
+}
